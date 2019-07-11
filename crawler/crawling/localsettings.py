@@ -1,0 +1,8 @@
+# coding=utf8
+# 爬虫模块的日志级别
+SC_LOG_LEVEL="DEBUG"
+QUEUE_HITS = 600
+QUEUE_WINDOW = 60
+# 爬虫内部系统的日志
+LOG_ENABLED=True
+# HTTPPROXY_AUTH_ENCODING='utf8'
